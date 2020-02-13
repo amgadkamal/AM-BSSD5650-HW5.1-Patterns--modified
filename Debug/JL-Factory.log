@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\amgad\Desktop\New folder (8)\AM-BSSD5650-HW5.1-Patterns--\Mushrooms.h(9,32): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\amgad\Desktop\New folder (8)\AM-BSSD5650-HW5.1-Patterns--\AddingTopping.h(48): warning C4715: 'AddingTopping::createPizz': not all control paths return a value
+  JL-Factory.vcxproj -> C:\Users\amgad\Desktop\New folder (8)\AM-BSSD5650-HW5.1-Patterns--\Debug\JL-Factory.exe
